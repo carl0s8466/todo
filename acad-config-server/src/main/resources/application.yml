@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/elvisjsAtlas1/Proyecto2Modelo1.0.git
+          uri: https://github.com/carl0s8466/todo.git
           searchPaths: config-data
           default-label: main
   security:
